@@ -1,5 +1,5 @@
-# redux-saga-beginner-tutorial
-Companion Repo for [Redux/Redux-saga beginner tutorial](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
+# redux-saga-beginner-project
+Companion Repo for Redux-saga basics example project
 
 # Instructions
 
@@ -7,14 +7,14 @@ Setup
 
 ```
 // clone the repo
-git clone https://github.com/redux-saga/redux-saga-beginner-tutorial.git
+git clone https://github.com/Rusleo-max/redux-saga-basics.git
 
-cd redux-saga-beginner-tutorial
+cd redux-saga-basics
 
 npm install
 ```
 
-Run the demo
+Run the project
 
 ```
 npm start
